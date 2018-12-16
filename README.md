@@ -54,3 +54,6 @@ np.random.seed(2018)
 import nltk
 nltk.download('wordnet')
 
+2 files required to run this project: 
+1. arxiv dataset (To be downloaded from the website given and saved to project folder)
+2. CFP_Recommendation_Model.py 
